@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "dc0306f818e4f2af04cde5e14f08b708974fd64dec63856f53a31e643eebac2b"
+build_start_time: [1682046285, 589960000]
+build_end_time: [1682046291, 789010000]
+inputs:
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Flutter/GeneratedPluginRegistrant.swift"
+  : [1682046172, 655359367]
+  "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Runner/AppDelegate.swift": [1667650051, 327656816]
+  "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Runner/MainFlutterWindow.swift": [1667650051, 329539538]

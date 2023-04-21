@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "833f4bfa8a8b117d2bad9155965febeec5784a6a2ed05c2e5257a764ec3eb1d5"
+build_start_time: [1667982779, 139946937]
+build_end_time: [1667982779, 292429924]
+inputs:
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1667982719, 911514759]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1667982719, 912517070]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1667982719, 913069963]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1667982719, 913309097]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1667982719, 913780450]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1667982719, 911833286]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1667982719, 911055088]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1667982719, 914083003]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1667982719, 913538455]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1667982719, 912200212]
+  ? "/Users/jadenliu/Downloads/NTHU - Bachleor Degree/\u5C08\u984C/codes/flash_learn/flashcard_project/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1667982719, 912769794]
